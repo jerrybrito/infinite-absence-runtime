@@ -1,0 +1,1 @@
+infinite-stasis>=2.7.3
